@@ -1,0 +1,6 @@
+framework module NumbKit_Local {
+  umbrella header "NumbKit_Local-umbrella.h"
+
+  export *
+  module * { export * }
+}

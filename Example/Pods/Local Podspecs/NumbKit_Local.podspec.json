@@ -1,0 +1,22 @@
+{
+  "name": "NumbKit_Local",
+  "version": "0.1.0",
+  "summary": "A short description of NumbKit_Local.",
+  "description": "TODO: Add long description of the pod here.",
+  "homepage": "https://github.com/943046353@qq.com/NumbKit_Local",
+  "license": {
+    "type": "MIT",
+    "file": "LICENSE"
+  },
+  "authors": {
+    "943046353@qq.com": "wangzhidong_cd@keruyun.com"
+  },
+  "source": {
+    "git": "https://github.com/943046353@qq.com/NumbKit_Local.git",
+    "tag": "0.1.0"
+  },
+  "platforms": {
+    "ios": "8.0"
+  },
+  "source_files": "NumbKit_Local/Classes/**/*"
+}

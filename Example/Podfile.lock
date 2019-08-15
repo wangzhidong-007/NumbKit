@@ -1,0 +1,16 @@
+PODS:
+  - NumbKit_Local (0.1.0)
+
+DEPENDENCIES:
+  - NumbKit_Local (from `../`)
+
+EXTERNAL SOURCES:
+  NumbKit_Local:
+    :path: "../"
+
+SPEC CHECKSUMS:
+  NumbKit_Local: 974506500779d7d08c9e44e7465c8cddfaa44e47
+
+PODFILE CHECKSUM: a2168bbc238d83a0a78794fe0f404963dd4d211b
+
+COCOAPODS: 1.5.3
