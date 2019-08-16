@@ -16,5 +16,8 @@
     NSLog(@"%@",self.text);
 }
 
-
+- (void)changeColor
+{
+    self.textColor = [UIColor redColor];
+}
 @end
